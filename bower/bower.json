@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "authors": [
+    "Angeal185 <beneaves01@hotmail.com>"
+  ],
+  "description": "demo",
+  "main": "index.js",
+  "keywords": [
+    "keywords"
+  ],
+  "license": "MIT",
+  "homepage": "https://angeal185.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
